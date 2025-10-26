@@ -12,18 +12,8 @@ Building modern **web and mobile apps** using:
 
 ---
 
-### 🤝 Looking to Collaborate On
-- **Open-source projects**
-- **SaaS tools**
-- **AI-powered and innovative digital solutions** that make a real-world impact
 
----
 
-### 🧠 Seeking Help With
-- **Scaling complex Laravel APIs**
-- **Integrating advanced AI features** into applications
-
----
 
 ### 🌱 Currently Learning
 - Advanced **TypeScript** patterns and **clean architecture** for large-scale projects

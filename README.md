@@ -25,7 +25,7 @@ Building modern **web and mobile apps** using:
 - **Laravel Best Practices**
 - **Frontend Performance Optimization**
 - **Backend Performance **
-- **API Integrations**
+- **API Integrations **
 - **Progressive Web App (PWA) Design**
 
 ---

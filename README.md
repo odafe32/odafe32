@@ -1,5 +1,47 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on<br><br>Building modern web and mobile applications with Laravel, React, React Native, Nextjs and Typescript.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects, SaaS tools, and innovative digital solutions that improve lives.<br><br>🧠 I’m looking for help with<br><br>Scaling complex Laravel APIs and integrating advanced AI features into apps.<br><br>🌱 I’m currently learning<br><br>advanced TypeScript patterns.<br><br>💬 Ask me about<br><br>Web, mobile development, Laravel best practices, frontend performance, and API integrations.<br><br>⚡ Fun fact<br><br>I love solving UI/UX challenges and can spend hours perfecting micro-interactions!
+# 💫 About Me
+
+👋 Hi, I'm **Godfrey Joseph Sule** — a passionate **Full-Stack Developer** and **Computer Science graduate** from Nasarawa State University.  
+I specialize in building **modern, scalable web and mobile applications** that blend clean design with powerful functionality.
+
+---
+
+### 👨‍💻 What I’m Currently Working On
+Building modern **web and mobile apps** using:
+- **Laravel**, **React**, **React Native**, **Next.js**, and **TypeScript**
+- Creating seamless experiences with **AI integrations**, **RESTful APIs**, and **PWAs**
+
+---
+
+### 🤝 Looking to Collaborate On
+- **Open-source projects**
+- **SaaS tools**
+- **AI-powered and innovative digital solutions** that make a real-world impact
+
+---
+
+### 🧠 Seeking Help With
+- **Scaling complex Laravel APIs**
+- **Integrating advanced AI features** into applications
+
+---
+
+### 🌱 Currently Learning
+- Advanced **TypeScript** patterns and **clean architecture** for large-scale projects
+
+---
+
+### 💬 Ask Me About
+- **Web & Mobile Development**
+- **Laravel Best Practices**
+- **Frontend Performance Optimization**
+- - **Backend Performance **
+- **API Integrations**
+- **Progressive Web App (PWA) Design**
+
+---
+
+### ⚡ Fun Fact
+I love solving **UI/UX challenges** and can spend hours perfecting **micro-interactions** that make digital products feel alive ✨
 
 
 ## 🌐 Socials:

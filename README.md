@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Sidi Samaila Agya** — a passionate **Full-Stack Developer** and **Computer Science graduate** from Nasarawa State University.  
+👋 Hi, I'm **Godfrey Joseph** — a passionate **Full-Stack Developer** and **Computer Science graduate** from Nasarawa State University.  
 I specialize in building **modern, scalable web and mobile applications** that blend clean design with powerful functionality.
 
 ---
